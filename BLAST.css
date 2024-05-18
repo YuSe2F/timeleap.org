@@ -128,3 +128,92 @@ div{
     width: 200px;
     transform: translateX(-40px) translateY(-30px) ;
 }
+.N2{
+    background-color: rgb(63, 58, 58); 
+    height: 630px;
+    width: 100%;
+}
+.N3{
+    height: 25px;
+    width: 25px;
+    margin-left: 1300px;
+    transform: translateX(10px) translateY(30px);
+    display: flex;
+}
+.N4{
+    transform: translateX(20px) translateY(7px);
+    margin-left: 1320px;
+    display: flex;
+    text-decoration:#ffffff;
+    color: #ffffff;
+}
+.N5{
+    text-decoration: none;
+    color: #ffffff;
+}
+.N6{
+    height: 25px;
+    width: 25px;
+    margin-left: 1300px;
+    transform: translateX(10px) translateY(30px);
+    display: flex;
+}
+.N7{
+    transform: translateX(20px) translateY(7px);
+    margin-left: 1320px;
+    display: flex;
+    color: #ffffff;
+}
+.N8{
+    text-decoration: none;
+    color: #ffffff;
+}
+.N9{
+    height: 70px;
+    width: 70px;
+    justify-content: center;
+    display: flex;
+    margin-left: 150px;
+    margin-top: -10px;
+}
+.N10{
+    display: flex;
+}
+.N11{
+    margin-top: -50px;
+    margin-left: 250px;
+    color: rgb(255, 255, 255);
+}
+.N12{
+    color: rgb(255, 255, 255);
+    transform: translateX(900px) translateY(10px);
+}
+.N13{
+    transform: translateX(50px) translateY(50px);
+}
+.N14{
+    margin-top: -50px;
+    margin-left: 250px;
+    color: rgb(255, 255, 255);
+}
+.N15{
+    margin-top: -50px;
+    margin-left: 500px;
+    color: rgb(255, 255, 255);
+    transform: translateY(-100px);
+}
+.N16{
+    margin-top: -50px;
+    margin-left: 500px;
+    color: rgb(255, 255, 255);
+    transform: translateY(50px) translateX(150px);
+}
+.N17{
+    font-size: 20px;
+}
+.N18{
+    transform: translateX(1300px) translateY(-30px); display: flex;
+}
+.N19{
+    height: 150px ; width: 300px;
+}
